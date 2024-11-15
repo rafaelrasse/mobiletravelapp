@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_widget_color">#E2E3E6</color>
+    <color name="black">#FF000000</color>
+    <color name="blue_gray">#8E9CB0</color>
+    <color name="color2">#9EA1AC</color>
+    <color name="light_blue_gray">#B7C9E2</color>
+    <color name="nav_bar_color">#C0C2C9</color>
+    <color name="navy_blue">#191970</color>
+    <color name="pink">#FC8EAC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Travel App</string>
+    <string name="txt_Dallas">Dallas, TX</string>
+    <string name="txt_Tokyo">Tokyo</string>
+    <string name="txt_flights">Flights</string>
+    <string name="txt_hotels">Hotels</string>
+    <string name="txt_label_1">Item 1</string>
+    <string name="txt_label_2">Item 2</string>
+    <string name="txt_label_3">Item 3</string>
+    <string name="txt_pop_categories">Popular Categories</string>
+    <string name="txt_recommended">Recommended</string>
+    <string name="txt_restaurants">Restaurants</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_see_all">See All</string>
+    <string name="txt_transportation">Transportation</string>
+    <style name="Base.Theme.FinalProject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.FinalProject" parent="Base.Theme.FinalProject"/>
+</resources>

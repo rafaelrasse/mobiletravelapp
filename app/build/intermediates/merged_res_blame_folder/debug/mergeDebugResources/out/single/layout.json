@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-32:/layout/login_page.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/layout/login_page.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-32:/layout/activity_main_page.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/layout/activity_main_page.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-32:/layout/item_categories.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/layout/item_categories.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-32:/layout/item_recommended.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/layout/item_recommended.xml"
+    }
+]

@@ -1,0 +1,6 @@
+edu.uark.kmbabbit.finalproject.test.app-tracing-1.2.0-0 C:\Users\kbabb\.gradle\caches\transforms-4\3febd0999e00014c35405ac528298c21\transformed\tracing-1.2.0\res
+edu.uark.kmbabbit.finalproject.test.app-core-1.6.1-1 C:\Users\kbabb\.gradle\caches\transforms-4\f228f9c6a37d593f462c045254714f0f\transformed\core-1.6.1\res
+edu.uark.kmbabbit.finalproject.test.app-androidTest-2 C:\Users\kbabb\Desktop\Fall2024\MobileProg\finalProject\app\build\generated\res\resValues\androidTest\debug
+edu.uark.kmbabbit.finalproject.test.app-mergeDebugAndroidTestResources-3 C:\Users\kbabb\Desktop\Fall2024\MobileProg\finalProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+edu.uark.kmbabbit.finalproject.test.app-mergeDebugAndroidTestResources-4 C:\Users\kbabb\Desktop\Fall2024\MobileProg\finalProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+edu.uark.kmbabbit.finalproject.test.app-debugAndroidTest-5 C:\Users\kbabb\Desktop\Fall2024\MobileProg\finalProject\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
