@@ -8,6 +8,7 @@ import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
+import androidx.fragment.app.FragmentContainerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import edu.uark.kmbabbit.finalproject.R;
@@ -20,14 +21,19 @@ public final class ActivityMainPageBinding implements ViewBinding {
   private final CoordinatorLayout rootView;
 
   @NonNull
+  public final FragmentContainerView autocompleteFragment;
+
+  @NonNull
   public final LinearLayout layoutCategories;
 
   @NonNull
   public final LinearLayout layoutRecommended;
 
   private ActivityMainPageBinding(@NonNull CoordinatorLayout rootView,
-      @NonNull LinearLayout layoutCategories, @NonNull LinearLayout layoutRecommended) {
+      @NonNull FragmentContainerView autocompleteFragment, @NonNull LinearLayout layoutCategories,
+      @NonNull LinearLayout layoutRecommended) {
     this.rootView = rootView;
+    this.autocompleteFragment = autocompleteFragment;
     this.layoutCategories = layoutCategories;
     this.layoutRecommended = layoutRecommended;
   }
@@ -59,6 +65,12 @@ public final class ActivityMainPageBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.autocomplete_fragment;
+      FragmentContainerView autocompleteFragment = ViewBindings.findChildViewById(rootView, id);
+      if (autocompleteFragment == null) {
+        break missingId;
+      }
+
       id = R.id.layoutCategories;
       LinearLayout layoutCategories = ViewBindings.findChildViewById(rootView, id);
       if (layoutCategories == null) {
@@ -71,8 +83,8 @@ public final class ActivityMainPageBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMainPageBinding((CoordinatorLayout) rootView, layoutCategories,
-          layoutRecommended);
+      return new ActivityMainPageBinding((CoordinatorLayout) rootView, autocompleteFragment,
+          layoutCategories, layoutRecommended);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
