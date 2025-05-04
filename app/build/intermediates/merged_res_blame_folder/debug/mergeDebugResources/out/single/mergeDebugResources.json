@@ -1,214 +1,314 @@
 [
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\layout_login_page.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\layout\\login_page.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_item_restaurant.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_restaurant.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/xml_backup_rules.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_item_place_card.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_place_card.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_bold.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_bold.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_amalficoast.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/amalficoast.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_rounded_corner.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\rounded_corner.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_mirazur.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/mirazur.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_japan.jpg.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\japan.jpg"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_eleven_madison_park.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/eleven_madison_park.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_bolditalic.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_bolditalic.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_mediumitalic.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_mediumitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_extrabold.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_extrabold.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_el_celler_de_can_roca.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/el_celler_de_can_roca.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\ic_launcher_background.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_semibolditalic.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_semibolditalic.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_santorini.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/santorini.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\layout_item_categories.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\layout\\item_categories.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_notifications_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_notifications_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/xml_data_extraction_rules.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_location_on_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_location_on_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_rounded_background.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/rounded_background.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_account_circle_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_account_circle_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_menu_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_menu_24.xml"
     },
     {
-        "merged": "edu.uark.kmbabbit.finalproject.app-debug-33:/drawable_login_background.xml.flat",
-        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/drawable/login_background.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_background_card.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/background_card.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_facebook.png.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/facebook.png"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_iceland.jpg.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\iceland.jpg"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/menu_bottom_menu.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/menu/bottom_menu.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_directions_bus_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_directions_bus_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_item_recommended.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_recommended.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_fragment_first.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/fragment_first.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_login_background.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\login_background.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_blackitalic.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_blackitalic.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_taj_mahal.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/taj_mahal.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_bold.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_restaurant_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_restaurant_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_directions_bus_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_directions_bus_24.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_saved_search_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_saved_search_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-anydpi/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\layout_item_recommended.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\layout\\item_recommended.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_iceland.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/iceland.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_icon_account_circle.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\icon_account_circle.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_fragment_second.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/fragment_second.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_facebook.png.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\facebook.png"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_regular.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_santorini.jpg.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\santorini.jpg"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_bookmark_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_bookmark_24.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_bookmark_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_bookmark_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_arrow_back_24.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_regular.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_regular.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_osteria_francescana.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/osteria_francescana.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\xml\\backup_rules.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_login_background.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/login_background.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_background_rounded.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\background_rounded.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_mediumitalic.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_mediumitalic.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_bolditalic.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_bolditalic.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_medium.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_medium.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_location_on_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_location_on_24.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\layout_activity_main_page.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\layout\\activity_main_page.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_medium.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_medium.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_black.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_black.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_activity_detail.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/activity_detail.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\xml\\data_extraction_rules.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_blackitalic.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_blackitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_semibold.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_semibold.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_menu_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_menu_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_saved_search_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_saved_search_24.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\menu_bottom_menu.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\menu\\bottom_menu.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_rounded_corner.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/rounded_corner.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_airplane_ticket_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_airplane_ticket_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_restaurant_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_restaurant_24.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_home_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_semibold.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_semibold.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_baseline_hotel_24.xml.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\baseline_hotel_24.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_activity_main_page.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/activity_main_page.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\drawable_linkedin.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\drawable\\linkedin.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_extrabold.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_extrabold.ttf"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_extrabolditalic.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_extrabolditalic.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_eiffel_tower.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/eiffel_tower.jpg"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_activity_json_results.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/activity_json_results.xml"
     },
     {
-        "merged": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-debug-33:\\font_playfairdisplay_semibolditalic.ttf.flat",
-        "source": "C:\\Users\\kbabb\\.gradle\\daemon\\8.7\\edu.uark.kmbabbit.finalproject.app-main-35:\\font\\playfairdisplay_semibolditalic.ttf"
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_colosseum.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/colosseum.jpg"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_notifications_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_notifications_24.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_linkedin.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/linkedin.webp"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/navigation_nav_graph.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_cancun.JPG.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/cancun.JPG"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_login_page.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/login_page.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_attractions_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_attractions_24.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_black.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_black.ttf"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_japan.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/japan.jpg"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_noma.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/noma.jpg"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_item_categories.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_categories.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_home_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_content_detail.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/content_detail.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_background_rounded.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/background_rounded.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_machu_picchu.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/machu_picchu.jpg"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_hotel_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_hotel_24.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_great_wall_of_china.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/great_wall_of_china.jpg"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_baseline_airplane_ticket_24.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/baseline_airplane_ticket_24.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_icon_account_circle.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/icon_account_circle.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/layout_item_attraction.xml.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_attraction.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/font_playfairdisplay_extrabolditalic.ttf.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/font/playfairdisplay_extrabolditalic.ttf"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-debug-54:/drawable_rome.jpg.flat",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/drawable/rome.jpg"
     }
 ]

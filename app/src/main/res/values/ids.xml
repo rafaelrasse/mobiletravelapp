@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="place_name" type="id" />
+    <item name="place_address" type="id" />
+    <item name="place_rating" type="id" />
+</resources>

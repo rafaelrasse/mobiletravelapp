@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-31:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-52:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\kbabb\\.gradle\\caches\\transforms-4\\f21313287b8849d342f0cf55216c6843\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-4\\22e9ec62e1bc1d8e1bd54120a733ce13\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kbabb\\.gradle\\caches\\transforms-4\\4ed3d082c40ca564d8646d8a4cd9eaae\\transformed\\material-1.12.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-4\\bfd038072474a1a823976acb0f87d4cb\\transformed\\material-1.12.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

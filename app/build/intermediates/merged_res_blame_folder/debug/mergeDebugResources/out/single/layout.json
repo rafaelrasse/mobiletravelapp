@@ -1,18 +1,50 @@
 [
     {
-        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-32:/layout/login_page.xml",
-        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/layout/login_page.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/fragment_first.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/fragment_first.xml"
     },
     {
-        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-32:/layout/activity_main_page.xml",
-        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/layout/activity_main_page.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/item_categories.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_categories.xml"
     },
     {
-        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-32:/layout/item_categories.xml",
-        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/layout/item_categories.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/content_detail.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/content_detail.xml"
     },
     {
-        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-32:/layout/item_recommended.xml",
-        "source": "edu.uark.kmbabbit.finalproject.app-main-35:/layout/item_recommended.xml"
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/item_restaurant.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_restaurant.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/fragment_second.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/item_recommended.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_recommended.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/item_place_card.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_place_card.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/login_page.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/login_page.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/activity_json_results.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/activity_json_results.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/activity_main_page.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/activity_main_page.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/activity_detail.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "edu.uark.kmbabbit.finalproject.app-mergeDebugResources-53:/layout/item_attraction.xml",
+        "source": "edu.uark.kmbabbit.finalproject.app-main-56:/layout/item_attraction.xml"
     }
 ]
